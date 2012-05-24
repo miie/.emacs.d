@@ -1,0 +1,16 @@
+;; -*- mode: Lisp; -*-
+
+(setq prj-version "0.4")
+
+(setq prj-list
+      '(("glhd" "~/.emacs.d/eproject-0.4" "glhd.cfg")
+        ("eproject" "/Users/michaelsmietana/.emacs.d/eproject-0.4")))
+
+(setq prj-last-open "glhd")
+
+(setq prj-frame-pos
+      '((top . 27)
+        (left . 77)
+        (width . 215)
+        (height . 64)))
+
